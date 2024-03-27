@@ -1,4 +1,4 @@
-# Proyek-Akhir-Klasifikasi-Gambar---Dicoding
+# Proyek-Akhir-Klasifikasi-Gambar-Dicoding
 
 Kriteria submission:
 
